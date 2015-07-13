@@ -1,3 +1,6 @@
+// Wojciech Geisler
+// 2015-07-13
+
 #include <iostream>
 
 using namespace std;
